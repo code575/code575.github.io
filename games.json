@@ -1,0 +1,31 @@
+[
+    {
+        "title": "The Ghost Fleet",
+        "description": "<p><i>Even though you can't remember your life, you're pretty sure this isn't any of the afterlifes you were told about.</i></p><p>An interactive story or <a href=\"https://en.wikipedia.org/wiki/Gamebook\">gamebook</a>. Like a choose your own adventure. Built in <a href=\"http://twinery.org\">Twine</a>.</p>",
+        "image": "img/ghost-fleet.png",
+        "image-link": "/play-ghost-fleet.html",
+        "image-text": "Play Ghost Fleet",
+        "links": [
+            {
+                "text": "Play",
+                "url": "/play-ghost-fleet.html"
+            }
+        ],
+        "odd": true
+    },
+    {
+        "title": "A Confused World",
+        "description": "<p><i>Everything is a bit...odd...</i></p><p>An interactive story or <a href=\"https://en.wikipedia.org/wiki/Gamebook\">gamebook</a>. Like a choose your own adventure. Built in <a href=\"http://twinery.org\">Twine</a>.</p>",
+        "image": "img/confused-world.png",
+        "image-link": "/play-confused-world.html",
+        "image-text": "Play Confused World",
+        "links": [
+            {
+                "text": "Play",
+                "url": "/play-confused-world.html"
+            }
+        ],
+        "odd": false
+    }
+]
+
